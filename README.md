@@ -11,7 +11,7 @@ My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics a
 - mechanics
 
 <p align="center">
-and anything related to physics: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
+and anything related to <b>physics</b>: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
 </p>
 
 ## About my projects
@@ -24,9 +24,16 @@ Here are some of my favourite repositories:
 - [Portfolio of the "Overspelled" video game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled), probably my most demanding project yet.
 - [Portfolio of my Bachelor's project](https://github.com/A-Rozmarynowicz/Portfolio_Quadcopter), which focuses on a from-scratch and robust implementation of a quadcopter.
 - [Ultra-Wideband Positioning System](https://github.com/A-Rozmarynowicz/UWB_Positioning_System): universal, robust, indoor locating modules that don't rely on a GPS signal.
-- [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): an interdisciplinary project I developed back in high school, with the goal to develop RC vehicles.
+- [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): a neat and polished project I developed back in high school, with the goal to develop RC vehicles.
 - [Prisoner's Dilemma Simulator](https://github.com/A-Rozmarynowicz/Prisoners_Dilemma_Simulator): a very fun hobby project that has recently sparked my interest in Game Theory simulations.
 
+## A bit more details about me.
+### Background:
+I was raised in a very small polish village. I have been trained in mechanics and electrical engineering since I was a child, as my...
+
+### Favourite books:
+- "Can't hurt me" by David Goggins.
+- "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton
 <!--
 **A-Rozmarynowicz/A-Rozmarynowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
