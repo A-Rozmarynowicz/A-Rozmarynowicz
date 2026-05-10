@@ -1,4 +1,5 @@
 ## Hello there
+My name is Arkadiusz Rozmarynowicz, I study Automatic Control and Robotics at Warsaw University of Technology. Apart from my main field of study, I am extremely passionate about electronics, computer science, mechanics, mathematics ... , and anything related to physics: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
 
 <!--
 **A-Rozmarynowicz/A-Rozmarynowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
