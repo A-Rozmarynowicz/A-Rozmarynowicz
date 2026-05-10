@@ -1,11 +1,16 @@
 ## Hello there
-My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics at Warsaw University of Technology, Poland. Apart from my main field of study, I am extremely passionate about:
+My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics at Warsaw University of Technology, Poland.
+
+<p align="center">
+ Apart from my main field of study, I am extremely passionate about:
+
 - electronics
 - computer science
 - mathematics ... ,
 - mechanics
 
 and anything related to physics: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
+</p>
 
 ## About my projects
 Please take a look at my repositories to find many exciting projects I've been working on for the past years. Each one of them has been driven by my:
