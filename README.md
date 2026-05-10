@@ -3,12 +3,14 @@ My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics a
 
 <p align="center">
  Apart from my main field of study, I am extremely passionate about:
+</p>
 
 - electronics
 - computer science
 - mathematics ... ,
 - mechanics
 
+<p align="center">
 and anything related to physics: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
 </p>
 
