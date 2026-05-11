@@ -29,11 +29,20 @@ Here are some of my favourite repositories:
 
 ## A bit more details about me.
 ### Background:
-I was raised in a very small polish village. I have been trained in mechanics and electrical engineering since I was a child, as my...
+All my life I spent working and learning in my father's workshop, where we mainly fixed and reworked buses and cars. I have gained very hands-on experience with mechanical and electrical engineering, which has driven me to pursue an engineering career. Apart from the workshop, I had passionately explored maths, physics, and electronics before I started the University, and to this day I foster my curiosity through projects and books.
+
+### What I'm working on now:
+- Full quadcopter implementation for my Bachelor's project
+- Development of "Overspelled"
+- Additional courses in electric and autonomous vehicles
+- Hobby physics simulations
+- Still working with buses and cars in the workshop.
 
 ### Favourite books:
-- "Can't hurt me" by David Goggins.
+- "Can't Hurt Me" by David Goggins.
 - "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton
+
+
 <!--
 **A-Rozmarynowicz/A-Rozmarynowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
