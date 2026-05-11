@@ -42,7 +42,7 @@ All my life I spent working and learning in my father's workshop, where we mainl
 
 ### Favourite books:
 - "Can't Hurt Me" by David Goggins.
-- "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton
+- "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton.
 
 
 <!--
