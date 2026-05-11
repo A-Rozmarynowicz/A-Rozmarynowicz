@@ -5,10 +5,12 @@ My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics a
  Apart from my main field of study, I am extremely passionate about:
 </p>
 
-- electronics
-- computer science
-- mathematics ... ,
-- mechanics
+<p align="center">
+electronics <br/>
+computer science <br/>
+mathematics ... , <br/>
+mechanics <br/>
+</p>
 
 <p align="center">
 and anything related to <b>physics</b>: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
@@ -36,7 +38,7 @@ All my life I spent working and learning in my father's workshop, where we mainl
 - Development of "Overspelled"
 - Additional courses in electric and autonomous vehicles
 - Hobby physics simulations
-- Still working with buses and cars in the workshop.
+- Still working on buses and cars in the workshop.
 
 ### Favourite books:
 - "Can't Hurt Me" by David Goggins.
