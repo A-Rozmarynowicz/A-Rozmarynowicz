@@ -20,14 +20,20 @@ and anything related to <b>physics</b>: science that has forever driven my curio
 Please take a look at my repositories to find many exciting projects I've been working on for the past years. Each one of them has been driven by my:
 - sheer passion about the subjects
 - ever-growing love for learning
-- lifetime ambition to contribute to the development of science one day.
+- lifetime ambition to contribute to the development of science and technology.
 
-Here are some of my favourite repositories:
-- [Portfolio of the "Overspelled" video game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled), probably my most demanding project yet.
-- [Portfolio of my Bachelor's project](https://github.com/A-Rozmarynowicz/Portfolio_Quadcopter), which focuses on a from-scratch and robust implementation of a quadcopter.
-- [Ultra-Wideband Positioning System](https://github.com/A-Rozmarynowicz/UWB_Positioning_System): universal, robust, indoor locating modules that don't rely on a GPS signal.
-- [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): a neat and polished project I developed back in high school, with the goal to develop RC vehicles.
-- [Prisoner's Dilemma Simulator](https://github.com/A-Rozmarynowicz/Prisoners_Dilemma_Simulator): a very fun hobby project that has recently sparked my interest in Game Theory simulations.
+### Hobby projects:
+- [Portfolio of the "Overspelled" Video Game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled), probably my most demanding project yet.
+- [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): a neat and polished project I developed back in high school used for controlling RC vehicles.
+- [Prisoner's Dilemma Simulator](https://github.com/A-Rozmarynowicz/Prisoners_Dilemma_Simulator): a little and fun hobby project that has recently sparked my interest in Game Theory simulations.
+- [RC Off-Road Car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car): a reworked RC toy with custom electronics, body and repaired mechanical systems.
+- [RC Drift Car](https://github.com/A-Rozmarynowicz/RC_Drift_Car): a LEGO car enhanced by custom electronics.
+- [Minor Hobby Projects](https://github.com/A-Rozmarynowicz/Minor_Hobby_Projects_Portfolio): a set of some of my smaller projects that showcase my lifetime passion for creation.
+
+### Favourite University projects:
+- [Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Quadcopter_Full_Implementation), robust from-scratch design and implementation of hardware, software, and simulation for a drone.
+- [Ultra-Wideband Positioning System](https://github.com/A-Rozmarynowicz/UWB_Positioning_System): universal, reliable, indoor locating modules that don't rely on a GPS signal.
+- [Two Switch Flyback Converter]
 
 ## A bit more details about me.
 ### Background:
