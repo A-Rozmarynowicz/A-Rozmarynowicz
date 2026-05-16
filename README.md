@@ -22,31 +22,35 @@ Please take a look at my repositories to find many exciting projects I've been w
 - ever-growing love for learning
 - lifetime ambition to contribute to the development of science and technology.
 
+---
+
 ### Hobby projects:
-- [Portfolio of the "Overspelled" Video Game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled), probably my most demanding project yet.
+- **[Portfolio of the "Overspelled" Video Game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled): probably my most demanding project yet.**
 - [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): a neat and polished project I developed back in high school used for controlling RC vehicles.
 - [Prisoner's Dilemma Simulator](https://github.com/A-Rozmarynowicz/Prisoners_Dilemma_Simulator): a little and fun hobby project that has recently sparked my interest in Game Theory simulations.
 - [RC Off-Road Car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car): a reworked RC toy with custom electronics, body and repaired mechanical systems.
 - [RC Drift Car](https://github.com/A-Rozmarynowicz/RC_Drift_Car): a LEGO car enhanced by custom electronics.
 - [Minor Hobby Projects](https://github.com/A-Rozmarynowicz/Minor_Hobby_Projects_Portfolio): a set of some of my smaller projects that showcase my lifetime passion for creation.
 
+---
+
 ### Favourite University projects:
-- [Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Quadcopter_Full_Implementation), robust from-scratch design and implementation of hardware, software, and simulation for a drone.
+- [Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Quadcopter_Full_Implementation): robust from-scratch design and implementation of hardware, software, and simulation for a drone.
 - [Ultra-Wideband Positioning System](https://github.com/A-Rozmarynowicz/UWB_Positioning_System): universal, reliable, indoor locating modules that don't rely on a GPS signal.
-- [Two Switch Flyback Converter]
+- [Two Switch Flyback Converter](https://github.com/A-Rozmarynowicz/Two_Switch_Flyback_Converter):
+a DC-DC power converter. Performed detailed calculations, designed a PCB, simulated and tested the circuit.
+- [Macau](https://github.com/A-Rozmarynowicz/Macau): my first-ever Python project: a card game with functional GUI and bot players.
+- [FPGA Communication System](https://github.com/A-Rozmarynowicz/FPGA_Communication_System): a simulated and implemented UART-parallel converter.
 
-## A bit more details about me.
-### Background:
-All my life I spent working and learning in my father's workshop, where we mainly fixed and reworked buses and cars. I have gained very hands-on experience with mechanical and electrical engineering, which has driven me to pursue an engineering career. Apart from the workshop, I had passionately explored maths, physics, and electronics before I started the University, and to this day I foster my curiosity through projects and books.
 
-### What I'm working on now:
+## What I'm working on now:
 - Full quadcopter implementation for my Bachelor's project
 - Development of "Overspelled"
 - Additional courses in electric and autonomous vehicles
 - Hobby physics simulations
 - Still working on buses and cars in the workshop.
 
-### Favourite books:
+## Favourite books:
 - "Can't Hurt Me" by David Goggins.
 - "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton.
 
