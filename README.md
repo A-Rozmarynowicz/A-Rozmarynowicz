@@ -47,8 +47,8 @@ a DC-DC power converter. Performed detailed calculations, designed a PCB, simula
 - Full quadcopter implementation for my Bachelor's project
 - Development of "Overspelled"
 - Additional courses in physics and autonomous vehicles
-<!-- - Hobby physics simulations -->
 - Working on buses and cars in a workshop
+<!-- - Hobby physics simulations -->
 
 ## Favourite books:
 - "Can't Hurt Me" by David Goggins.
