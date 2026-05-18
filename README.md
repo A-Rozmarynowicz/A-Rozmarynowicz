@@ -40,7 +40,7 @@ Please take a look at my repositories to find many exciting projects I've been w
 - [Two Switch Flyback Converter](https://github.com/A-Rozmarynowicz/Two_Switch_Flyback_Converter):
 a DC-DC power converter. Performed detailed calculations, designed a PCB, simulated, and tested the circuit.
 - [Macau](https://github.com/A-Rozmarynowicz/Macau): my first-ever Python project: a card game with functional GUI and bot players.
-- [FPGA Communication System](https://github.com/A-Rozmarynowicz/FPGA_Communication_System): a flexible and UART-parallel converter, simulated, implemented, and tested in the Vivado software.
+- [FPGA Communication System](https://github.com/A-Rozmarynowicz/FPGA_Communication_System): a flexible and reliable UART-parallel converter, simulated, implemented, and tested in the Vivado software.
 
 
 ## What I'm working on now:
