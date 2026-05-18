@@ -46,9 +46,9 @@ a DC-DC power converter. Performed detailed calculations, designed a PCB, simula
 ## What I'm working on now:
 - Full quadcopter implementation for my Bachelor's project
 - Development of "Overspelled"
-- Additional courses in autonomous vehicles and physics
-- Hobby physics simulations
-- Working on buses and cars in the workshop
+- Additional courses in physics and autonomous vehicles
+<!-- - Hobby physics simulations -->
+- Working on buses and cars in a workshop
 
 ## Favourite books:
 - "Can't Hurt Me" by David Goggins.
