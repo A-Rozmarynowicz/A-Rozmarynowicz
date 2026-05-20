@@ -28,9 +28,9 @@ Please take a look at my repositories to find many exciting projects I've been w
 - **[Portfolio of the "Overspelled" Video Game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled): probably my most demanding project yet.**
 - [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): a neat and polished project I developed back in high school, used for controlling RC vehicles.
 - [RC Off-Road Car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car): a reworked RC toy with custom electronics, body, and repaired mechanical systems.
-- [RC Drift Car](https://github.com/A-Rozmarynowicz/RC_Drift_Car): a LEGO car enhanced by custom electronics.
-- [Minor Hobby Projects](https://github.com/A-Rozmarynowicz/Minor_Hobby_Projects_Portfolio): a set of some of my smaller projects that showcase my lifetime passion for creation.
 - [Prisoner's Dilemma Simulator](https://github.com/A-Rozmarynowicz/Prisoners_Dilemma_Simulator): a little and fun hobby project that has recently sparked my interest in Game Theory simulations.
+- [Minor Hobby Projects](https://github.com/A-Rozmarynowicz/Minor_Hobby_Projects_Portfolio): a set of some of my smaller projects that showcase my lifetime passion for creation.
+- [RC Drift Car](https://github.com/A-Rozmarynowicz/RC_Drift_Car): a LEGO car enhanced by custom electronics.
 
 ---
 
