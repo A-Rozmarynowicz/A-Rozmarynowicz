@@ -36,7 +36,7 @@ Please take a look at my repositories to find many exciting projects I've been w
 ---
 
 ### Favourite University projects:
-- [Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Quadcopter_Full_Implementation): robust from-scratch design and implementation of hardware, software, and simulation for a drone.
+- **[Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Quadcopter_Full_Implementation): robust from-scratch design and implementation of hardware, software, and simulation for a drone.**
 - [Ultra-Wideband Positioning System](https://github.com/A-Rozmarynowicz/UWB_Positioning_System): universal, reliable, indoor locating modules that don't rely on a GPS signal.
 - [Two Switch Flyback Converter](https://github.com/A-Rozmarynowicz/Two_Switch_Flyback_Converter):
 a DC-DC power converter. Performed detailed calculations, designed a PCB, simulated, and tested the circuit.
