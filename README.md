@@ -6,15 +6,20 @@ My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics a
 </p>
 
 <p align="center">
-UAVs <br/>
-electronics <br/>
-computer science <br/>
-mathematics <br/>
-mechanics <br/>
+Systems Engineering </br>
+Space Exploration </br>
+Electronics <br/>
+Computer Science <br/>
+Mechanics <br/>
+Physics </br>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 and anything related to <b>physics</b>: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
+</p> -->
+
+<p align="center">
+And I aim to positively and meaningfully contribute to the development of engineering.
 </p>
 
 ## About my projects
