@@ -40,11 +40,12 @@ Please take a look at my repositories to find many exciting projects I've been w
 
 ---
 
-### Favourite University projects:
+### Favorite University projects:
 - **[Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Quadcopter_Full_Implementation): robust from-scratch design and implementation of hardware, software, and simulation for a drone.**
 - [Ultra-Wideband Positioning System](https://github.com/A-Rozmarynowicz/UWB_Positioning_System): universal, reliable, indoor locating modules that don't rely on a GPS signal.
 - [Two Switch Flyback Converter](https://github.com/A-Rozmarynowicz/Two_Switch_Flyback_Converter):
 a DC-DC power converter. Performed detailed calculations, designed a PCB, simulated, and tested the circuit.
+- [Inverted Pendulum Control with Reinforcement Learning](https://github.com/A-Rozmarynowicz/Inverted_Pendulum_Reinforcement_Learning): a framework for Gymnasium environments, showcased with Q-Learning and SARSA algorithms.
 - [Macau](https://github.com/A-Rozmarynowicz/Macau): my first-ever Python project: a card game with functional GUI and bot players.
 - [FPGA Communication System](https://github.com/A-Rozmarynowicz/FPGA_Communication_System): a flexible and reliable UART-parallel converter, simulated, implemented, and tested in the Vivado software.
 
@@ -56,7 +57,7 @@ a DC-DC power converter. Performed detailed calculations, designed a PCB, simula
 - Working on buses and cars in a workshop
 <!-- - Hobby physics simulations -->
 
-## Favourite books:
+## Favorite books:
 - "Can't Hurt Me" by David Goggins.
 - "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton.
 
