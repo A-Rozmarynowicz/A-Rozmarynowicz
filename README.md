@@ -57,8 +57,7 @@ a DC-DC power converter. Performed detailed calculations, designed a PCB, simula
 - Working on buses and cars in a workshop
 <!-- - Hobby physics simulations -->
 
-## Favourite books:
-- "Can't Hurt Me" by David Goggins.
+## Favorite books:
 - "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton.
 - "Can't Hurt Me" by David Goggins.
 
