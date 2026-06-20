@@ -18,9 +18,13 @@ Physics </br>
 and anything related to <b>physics</b>: science that has forever driven my curiosity about the Universe, and which I aim to progress through my engineering work.
 </p> -->
 
+
 <p align="center">
 And I aim to positively and meaningfully contribute to the development of engineering.
 </p>
+
+## Further details
+You can also visit my [LinkedIn](https://www.linkedin.com/in/arkadiusz-rozmarynowicz-ar/) profile for details on my work experience and certificates.
 
 ## About my projects
 Please take a look at my repositories to find many exciting projects I've been working on for the past few years. Each one of them has been driven by my:
