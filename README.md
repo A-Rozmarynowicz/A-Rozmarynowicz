@@ -27,10 +27,11 @@ And I aim to positively and meaningfully contribute to the development of engine
 You can also visit my [LinkedIn](https://www.linkedin.com/in/arkadiusz-rozmarynowicz-ar/) profile for details on my work experience and certificates.
 
 ## About my projects
-Please take a look at my repositories to find many exciting projects I've been working on for the past few years. Each one of them has been driven by my:
+Please take a look at my repositories to find many exciting projects I've been working on for the past few years.
+<!-- Each one of them has been driven by my:
 - sheer passion for the subjects
 - ever-growing love for learning
-- lifetime ambition to contribute to the development of science and technology.
+- lifetime ambition to contribute to the development of science and technology. -->
 
 ---
 
