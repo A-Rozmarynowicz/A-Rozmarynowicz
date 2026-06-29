@@ -2,7 +2,7 @@
 My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics at Warsaw University of Technology, Poland.
 
 <p align="center">
- Along with my main field of study, I am extremely passionate about:
+ Along with my main field of study, I am very passionate about:
 </p>
 
 <p align="center">
