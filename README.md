@@ -62,10 +62,11 @@ a DC-DC power converter. Performed detailed calculations, designed a PCB, simula
 - Working on buses and cars in a workshop
 <!-- - Hobby physics simulations -->
 
+<!--
 ## Favorite books:
 - "The Feynman Lectures on Physics" by Richard Feynman, Matthew Sands, and Robert B. Leighton.
 - "Can't Hurt Me" by David Goggins.
-
+-->
 
 <!--
 **A-Rozmarynowicz/A-Rozmarynowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
