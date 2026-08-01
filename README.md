@@ -23,7 +23,7 @@ and anything related to <b>physics</b>: science that has forever driven my curio
 And I aim to positively and meaningfully contribute to the development of engineering.
 </p>
 
-## Further details
+## LinkedIn
 You can also visit my [LinkedIn](https://www.linkedin.com/in/arkadiusz-rozmarynowicz-ar/) profile for details on my work experience and certificates.
 
 ## About my projects
@@ -58,8 +58,10 @@ a DC-DC power converter. Performed detailed calculations, designed a PCB, simula
 ## What I'm working on now:
 - Full quadcopter implementation for my Bachelor's project
 - Development of "Overspelled"
-- Additional courses in physics and autonomous vehicles
 - Working on buses and cars in a workshop
+
+  I am currently focused on 3D designing and assembling my quadcopter, hence my limited GitHub activity over the past months.
+
 <!-- - Hobby physics simulations -->
 
 <!--
