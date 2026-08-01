@@ -6,11 +6,10 @@ My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics a
 </p>
 
 <p align="center">
-Systems Engineering </br>
-Space Exploration </br>
 Electronics <br/>
 Computer Science <br/>
 Mechanics <br/>
+Space Exploration </br>
 Physics </br>
 </p>
 
@@ -23,11 +22,11 @@ and anything related to <b>physics</b>: science that has forever driven my curio
 And I aim to positively and meaningfully contribute to the development of engineering.
 </p>
 
-## LinkedIn
+## LinkedIn ![large-filled-linkedin](./linkedin.svg)
 You can also visit my [LinkedIn](https://www.linkedin.com/in/arkadiusz-rozmarynowicz-ar/) profile for details on my work experience and certificates.
 
 ## About my projects
-Please take a look at my repositories to find many exciting projects I've been working on for the past few years.
+Please take a look at my repositories to find many projects I've been working on for the past few years.
 <!-- Each one of them has been driven by my:
 - sheer passion for the subjects
 - ever-growing love for learning
