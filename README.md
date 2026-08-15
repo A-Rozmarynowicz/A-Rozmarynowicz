@@ -59,7 +59,12 @@ a DC-DC power converter. Performed detailed calculations, designed a PCB, simula
 - Development of "Overspelled"
 - Working on buses and cars in a workshop
 
-  I am currently focused on 3D designing and assembling my quadcopter, hence my limited GitHub activity over the past months.
+  I am currently focused on 3D designing and assembling my quadcopter, hence my limited GitHub activity over the past months:
+
+<p align="center">
+<img src="./Final_Render_Quadcopter_Assembly.png" alt="Quadcopter Render" width="550"> <br>
+<em>Figure 3: 3D model of the quadcopter.</em>
+ </p>
 
 <!-- - Hobby physics simulations -->
 
