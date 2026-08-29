@@ -7,9 +7,10 @@ My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics a
 
 <p align="center">
 Electronics <br/>
+Embedded Systems <br/>
+Space Exploration </br>
 Computer Science <br/>
 Mechanics <br/>
-Space Exploration </br>
 Physics </br>
 </p>
 
