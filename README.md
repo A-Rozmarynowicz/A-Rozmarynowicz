@@ -7,9 +7,10 @@ My name is Arkadiusz Rozmarynowicz, and I study Automatic Control and Robotics a
 
 <p align="center">
 Electronics <br/>
-Computer Science <br/>
 Mechanics <br/>
+Embedded Systems <br/>
 Space Exploration </br>
+Computer Science <br/>
 Physics </br>
 </p>
 
@@ -39,13 +40,13 @@ Please take a look at my repositories to find many projects I've been working on
 - [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): a neat and polished project I developed back in high school, used for controlling RC vehicles.
 - [RC Off-Road Car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car): a reworked RC toy with custom electronics, body, and repaired mechanical systems.
 - [Prisoner's Dilemma Simulator](https://github.com/A-Rozmarynowicz/Prisoners_Dilemma_Simulator): a little and fun hobby project that has recently sparked my interest in Game Theory simulations.
-- [Minor Hobby Projects](https://github.com/A-Rozmarynowicz/Minor_Hobby_Projects_Portfolio): a set of some of my smaller projects that showcase my lifetime passion for creation.
+- [Minor Hobby Projects](https://github.com/A-Rozmarynowicz/Minor_Hobby_Projects_Portfolio): a set of some of my smaller projects that showcase my passion for creation.
 - [RC Drift Car](https://github.com/A-Rozmarynowicz/RC_Drift_Car): a LEGO car enhanced by custom electronics.
 
 ---
 
 ### Favorite University projects:
-- **[Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Portfolio_Quadcopter): robust from-scratch design and implementation of hardware, software, and simulation for a drone.**
+- **[Full Implementation of a Quadcopter](https://github.com/A-Rozmarynowicz/Quadcopter_Full_Implementation): from-scratch design and implementation of hardware, software, and simulation for a drone.**
 - [Ultra-Wideband Positioning System](https://github.com/A-Rozmarynowicz/UWB_Positioning_System): universal, reliable, indoor locating modules that don't rely on a GPS signal.
 - [Two Switch Flyback Converter](https://github.com/A-Rozmarynowicz/Two_Switch_Flyback_Converter):
 a DC-DC power converter. Performed detailed calculations, designed a PCB, simulated, and tested the circuit.
