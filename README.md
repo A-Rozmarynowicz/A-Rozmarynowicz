@@ -36,7 +36,7 @@ Please take a look at my repositories to find many projects I've been working on
 ---
 
 ### Hobby projects:
-- **["Overspelled" Video Game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled): Commercial video game with a free demo on Steam.**
+- **["Overspelled" Video Game](https://github.com/A-Rozmarynowicz/Portfolio_Overspelled): commercial video game with a free demo on Steam.**
 - [Custom RC Transceiver](https://github.com/A-Rozmarynowicz/Custom_RC_Transceiver): a neat and polished project I developed back in high school, used for controlling RC vehicles.
 - [RC Off-Road Car](https://github.com/A-Rozmarynowicz/RC_Off-Road_Car): a reworked RC toy with custom electronics, body, and repaired mechanical systems.
 - [Prisoner's Dilemma Simulator](https://github.com/A-Rozmarynowicz/Prisoners_Dilemma_Simulator): a little and fun hobby project that has recently sparked my interest in Game Theory simulations.
